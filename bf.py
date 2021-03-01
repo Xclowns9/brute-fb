@@ -4,7 +4,7 @@ import requests , os
 
 os.system('clear')
 
-url = 'https://m.facebook.com/login/?ref=dbl&fl'
+url = 'https://www.facebook.com/login.php?login_attempt=1'
 
 print ('<<=====================>>')
 print ('    Created By Fxadfr')
